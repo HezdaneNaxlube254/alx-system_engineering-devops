@@ -1,0 +1,7 @@
+#!/bin/bash
+case fghgff in
+    RET)
+	
+	;;
+    
+rm *~
